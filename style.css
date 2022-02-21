@@ -1,0 +1,17 @@
+form {
+        border: solid black 2px;
+        padding: 5px;
+        background-color: gray;
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+input{
+    font-size: 18px;
+    color: blue;
+}
+label,input{
+    margin: 3px 0 3px 0;
+}
